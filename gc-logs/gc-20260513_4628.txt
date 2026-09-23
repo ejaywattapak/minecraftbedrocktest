@@ -1,0 +1,6 @@
+#Format
+#Name|IP|LIFETIME // No Expiration
+#Name|IP|dd/mm/yy // With Expiration
+
+muash|103.14.77.39|LIFETIME
+

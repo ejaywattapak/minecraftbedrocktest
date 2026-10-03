@@ -2,3 +2,4 @@
 #Name|LIFETIME // No Expiration
 #Name|dd/mm/yy // With Expiration
 muash|1/12/2026
+trial|17/10/2026

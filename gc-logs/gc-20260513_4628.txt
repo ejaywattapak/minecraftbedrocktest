@@ -3,4 +3,5 @@
 #Name|IP|dd/mm/yy // With Expiration
 
 muash|103.14.77.39|LIFETIME
+azprem|94.237.78.235|01/12/2026
 
